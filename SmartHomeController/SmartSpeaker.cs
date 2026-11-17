@@ -41,6 +41,11 @@ namespace SmartHomeController
 
         // Methods
 
+        public override void GetStatus()
+        {
+            
+        }
+
         public void PlayMusic()
         {
 
